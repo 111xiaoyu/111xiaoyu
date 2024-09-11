@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @111xiaoyu
-- 👀 I’m interested in useing RTKLIB for positioning
+- 👀 I’m interested in using RTKLIB for positioning
 - 🌱 I’m currently learning RTKLIB and PPK
 - 📫 How to reach me :111xiaoyu.tao@gmail.com
 
